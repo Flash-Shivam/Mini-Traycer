@@ -1,4 +1,4 @@
-```markdown
+
 # MiniTraycer
 
 A simplified implementation of Traycer's planning layer for AI coding agents.
@@ -16,6 +16,7 @@ A simplified implementation of Traycer's planning layer for AI coding agents.
 - **Visual Plan Editor**: Review and edit plans before handoff
 
 - **Agent Integration**: Format plans for Cursor, Claude, etc.
+
 
 ## Project Structure
 ```
